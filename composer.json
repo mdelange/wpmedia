@@ -1,0 +1,11 @@
+{
+    "name": "mdelange/wpmedia",
+    "description": "Media helpers for WordPress",
+    "license": "proprietary",
+    "type": "library",
+    "version": "1.0",
+    "minimum-stability": "1.0",
+    "autoload": {
+        "files": ["media.php"]
+    }
+}
